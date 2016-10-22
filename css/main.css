@@ -1,1 +1,31 @@
-main.css
+font-face {
+	font-family: amplitude;
+	src: url(..     /Amplitude-Book.otf);
+}
+.tag{
+	position: fixed;
+	right: 0px;
+	top: 0px;
+}
+
+
+.header {
+	background: white;
+	width: 100%;
+	height: auto;
+	text-align: center;
+	border-bottom: solid 1px #D6D7DC;
+	color: #000;
+	padding-top:40px;
+	padding-bottom: 40px;
+}
+.txt {
+	color: #534E68;
+	padding-top: 30px;
+}
+.honor {
+	color: #8258B6;
+	font-size: 18px;
+	font-weight: bold;
+	padding-top: 20px;
+}
