@@ -75,3 +75,48 @@ font-face {
 	font-family: "Amplitude-Book"
 	
 }
+.social {
+	text-align: center;
+	padding: 40px;
+	background-color: #8453C8;
+	letter-spacing: 3px
+
+}
+
+.pp{
+	text-align: center;
+	padding-left: 300px;
+	padding-right: 300px;
+	letter-spacing: 3px
+
+
+}
+.txt2 {
+	color: #E9E4F5;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	letter-spacing: 3px
+	
+}
+
+p {
+	font-size: 14px;
+	text-align: justify;
+	color: #271A38;
+}
+
+a{
+	text-decoration: none;
+	color: #13BAC0;
+
+}
+.footer {
+	background: #E1EFF3;
+	width: 100%;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 13.5px;
+	letter-spacing: 3px;
+	font-family: "Amplitude-Book"
+}
